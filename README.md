@@ -1,19 +1,22 @@
-<table align="center">
+<table  style="border: none;">
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/tu-usuario/repositorio/main/claudio.png" width="150" style="border-radius: 10px;" alt="Claudio Rivera Bravo"/>
+    <td style="border: none;">
+      <img src="https://github.com/criveracode/criveracode/blob/main/perfil.JPEG" width="250" style="border-radius: 10px;" alt="Claudio Rivera Bravo"/>
     </td>
-    <td style="padding-left: 20px;">
-      <h3>Claudio Rivera Bravo</h3>
-      <p>Ingeniero en Informática y Desarrollador Backend apasionado por la tecnología, el código limpio y la mejora continua. Amante del aprendizaje constante, la eficiencia y el diseño escalable.</p>
+    <td style="border: none; padding-left: 25px; vertical-align: top;">
+      <h3 style="margin-top: 0;">Claudio Rivera Bravo</h3>
+      <p style="max-width: 400px;">
+        🧬 Magíster en Data Science
+      </p>
+      <p style="max-width: 400px;">
+        📚 Diplomado en Gestión de Proyectos TI
+      </p>
+       <p style="max-width: 400px;">
+        🎓 Ingeniero en Informática Mención Desarrollo de Sistemas
+      </p>
     </td>
   </tr>
 </table>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Ingeniero+en+Inform%C3%A1tica+apasionado+por+el+backend;Amante+de+la+eficiencia+y+la+calidad+del+c%C3%B3digo;Arquitectura+limpia%2C+escalabilidad+y+rendimiento;Aprendiendo+siempre%2C+compartiendo+mejor+a%C3%BAn" alt="Typing SVG" />
-</p>
 
 ---
 
