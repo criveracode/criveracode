@@ -1,15 +1,14 @@
-<h1 align="center">Hola 👋, soy Claudio Rivera Bravo</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/criveradev/repositorio/main/perfil.jpeg" width="500" />
-</p>
-
-<div>
-  <ul>
-    <li><h4>📚 DIPLOMADO EN GESTIÓN DE PROYECTOS TI </h4></li>
-    <li><h4>📚 INGENIERO EN INFORMÁTICA MENCIÓN DESARROLLO DE SISTEMAS </h4> </li>
-  </ul>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/tu-usuario/repositorio/main/claudio.png" width="150" style="border-radius: 10px;" alt="Claudio Rivera Bravo"/>
+    </td>
+    <td style="padding-left: 20px;">
+      <h3>Claudio Rivera Bravo</h3>
+      <p>Ingeniero en Informática y Desarrollador Backend apasionado por la tecnología, el código limpio y la mejora continua. Amante del aprendizaje constante, la eficiencia y el diseño escalable.</p>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
