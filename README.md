@@ -61,9 +61,10 @@
   <a href="mailto:riverabravocla@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </p>
 
 ---
 
-✨ _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+✨ "Code is like humor. When you have to explain it, it’s bad." – Cory House.
 
