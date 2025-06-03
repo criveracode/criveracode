@@ -2,8 +2,9 @@
 <h3 align="center">🧠 Ingeniero en Informática | 💻 Desarrollador Backend</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Apasionado+por+la+tecnolog%C3%ADa;Enfocado+en+la+calidad+y+el+rendimiento;Siempre+aprendiendo+y+compartiendo+conocimiento" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=Ingeniero+en+Inform%C3%A1tica+apasionado+por+el+backend;Amante+de+la+eficiencia+y+la+calidad+del+c%C3%B3digo;Arquitectura+limpia%2C+escalabilidad+y+rendimiento;Aprendiendo+siempre%2C+compartiendo+mejor+a%C3%BAn" alt="Typing SVG" />
 </p>
+
 
 ---
 
